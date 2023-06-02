@@ -1,5 +1,6 @@
 # Diffusion Deformable Model (DDM)
-The official source code of "diffusion deformable model (DDM)".
+The official source code of "Diffusion deformable model for 4D temporal medical image generation" which is presented in MICCAI 2022.
+[MICCAI paper](https://link.springer.com/chapter/10.1007/978-3-031-16431-6_51)
 
 Implementation
 ===============
